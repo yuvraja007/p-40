@@ -69,3 +69,24 @@ canvas {
   transition-duration: 0.4s;
   outline: none;
 }
+
+.customButton2 {
+  width:180px;
+  height:50px;
+  background-color: hsl(216, 99%, 60%);
+  border: 3px solid rgb(208, 211, 219);
+  color: #FFFF;
+  font-weight:bold;
+  border-radius: 10px;
+  margin-bottom:100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: vollkorn;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  outline: none;
+}
